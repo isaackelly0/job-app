@@ -3,7 +3,10 @@ const Sidebar = props => {
     return(
         <nav>
             <ul>
-                {props.list.map(item=>{return<li key={uniqid()}><a href={item}></a></li>})}
+                {props.list.map(item=>{
+                    let id = "#" + item;
+                    return<li key={uniqid()}><a href={id}>{item}</a></li>
+                    })}
             </ul>
         </nav>
     )
