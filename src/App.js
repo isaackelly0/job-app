@@ -8,6 +8,7 @@ import {
 import Home from "./components/Home";
 import Page from "./components/Page";
 import javascript from "./components/data/javascript";
+import html from "./components/data/front-end";
 function App() {
   return (
     <Router>
@@ -30,6 +31,9 @@ function App() {
       <Switch>
         <Route exact path="/">
           <Home/>
+        </Route>
+        <Route path="/front-end">
+          <Page list={html}/>
         </Route>
         <Route path="/javascript">
           <Page list={javascript}/>
