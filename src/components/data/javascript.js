@@ -1,7 +1,11 @@
+import calculator from '../images/calculator.png';
+import sketch from '../images/sketch1.gif';
+import weather from '../images/weather.gif';
+import memory from '../images/memory.gif';
 let jsProjects = [
     {
         name: "Etch-a-sketch",
-        pic: "",
+        pic: sketch,
         alt: "duck",
         description: "It's an etch-a-sketch",
         page: "https://isaackelly0.github.io/etch-a-sketch/",
@@ -9,7 +13,7 @@ let jsProjects = [
     },
     {
         name:"Calculator",
-        pic:"",
+        pic:calculator,
         alt:"dodge",
         description: "It's a calculator",
         page: "https://isaackelly0.github.io/calculator/",
@@ -17,7 +21,7 @@ let jsProjects = [
     },
     {
         name: 'Weather App',
-        pic: '',
+        pic: weather,
         alt: 'Weather',
         description: 'ooh look a cloud',
         page: '',
@@ -33,7 +37,7 @@ let jsProjects = [
     },
     {
         name: 'Memory Card',
-        pic: '',
+        pic: memory,
         alt: 'cards',
         description: 'memory game using hooks',
         page: '',

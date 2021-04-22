@@ -1,7 +1,12 @@
+import videotube from '../images/Videotube.png';
+import mint from '../images/mint-page.png';
+import nyt from '../images/nyt.png';
+import odin from '../images/odin.png';
+
 let frontProjects = [
     {
         name: 'VideoTube',
-        pic: '',
+        pic: videotube,
         alt: 'VideoTube',
         description: 'Mock-up youtube page',
         page: '',
@@ -9,7 +14,7 @@ let frontProjects = [
     },
     {
         name: 'Mint page',
-        pic: '',
+        pic: mint,
         alt: 'Mint',
         description: 'Inuit Turbotax mock-up page',
         page: '',
@@ -17,7 +22,7 @@ let frontProjects = [
     },
     {
         name: 'New York Times',
-        pic: '',
+        pic: nyt,
         alt: 'nyt',
         description: 'New York times article',
         page: '',
@@ -49,7 +54,7 @@ let frontProjects = [
     },
     {
         name: 'Odin Framework',
-        pic: '',
+        pic: odin,
         alt: 'odin',
         description: 'testing personal framework',
         page: '',
