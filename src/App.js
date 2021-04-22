@@ -11,7 +11,7 @@ import javascript from "./components/data/javascript";
 import html from "./components/data/front-end";
 function App() {
   return (
-    <Router>
+    <Router className='container'>
       <nav>
         <ul>
           <li>
