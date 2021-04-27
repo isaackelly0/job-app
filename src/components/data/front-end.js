@@ -1,7 +1,10 @@
 import videotube from '../images/Videotube.png';
 import mint from '../images/mint-page.png';
 import nyt from '../images/nyt.png';
-import odin from '../images/odin.png';
+import apple from '../images/Apple.png';
+import nextweb from '../images/nextweb.gif';
+import newsweek from '../images/newsweek.gif';
+import odin from '../images/odin.gif';
 
 let frontProjects = [
     {
@@ -30,7 +33,7 @@ let frontProjects = [
     },
     {
         name: 'Apple Page',
-        pic: '',
+        pic: apple,
         alt: 'apple mock up',
         description: 'immitation apple page',
         page: '',
@@ -38,7 +41,7 @@ let frontProjects = [
     },
     {
         name: 'The Next Web',
-        pic: '',
+        pic: nextweb,
         alt: 'nextweb',
         description: 'first-time responsive website',
         page: '',
@@ -46,7 +49,7 @@ let frontProjects = [
     },
     {
         name: 'Newsweek',
-        pic: '',
+        pic: newsweek,
         alt: 'newsweek',
         description: 'testing bootstrap',
         page: '',
