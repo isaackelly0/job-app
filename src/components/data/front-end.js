@@ -12,7 +12,7 @@ let frontProjects = [
         pic: videotube,
         alt: 'VideoTube',
         description: 'Mock-up youtube page',
-        page: '',
+        page: 'https://isaackelly0.github.io/youtube-page/',
         github: 'https://github.com/isaackelly0/youtube-page'
     },
     {
@@ -20,7 +20,7 @@ let frontProjects = [
         pic: mint,
         alt: 'Mint',
         description: 'Inuit Turbotax mock-up page',
-        page: '',
+        page: 'https://isaackelly0.github.io/mint-page/',
         github: 'https://github.com/isaackelly0/mint-page'
     },
     {
@@ -28,7 +28,7 @@ let frontProjects = [
         pic: nyt,
         alt: 'nyt',
         description: 'New York times article',
-        page: '',
+        page: 'https://isaackelly0.github.io/nyt/',
         github: 'https://github.com/isaackelly0/nyt'
     },
     {
@@ -36,7 +36,7 @@ let frontProjects = [
         pic: apple,
         alt: 'apple mock up',
         description: 'immitation apple page',
-        page: '',
+        page: 'https://isaackelly0.github.io/apple-page/',
         github: 'https://github.com/isaackelly0/apple-page'
     },
     {
@@ -44,7 +44,7 @@ let frontProjects = [
         pic: nextweb,
         alt: 'nextweb',
         description: 'first-time responsive website',
-        page: '',
+        page: 'https://isaackelly0.github.io/nextweb/',
         github: 'https://github.com/isaackelly0/nextweb'
     },
     {
@@ -52,7 +52,7 @@ let frontProjects = [
         pic: newsweek,
         alt: 'newsweek',
         description: 'testing bootstrap',
-        page: '',
+        page: 'https://isaackelly0.github.io/newsweek/',
         github: 'https://github.com/isaackelly0/newsweek'
     },
     {
@@ -60,8 +60,8 @@ let frontProjects = [
         pic: odin,
         alt: 'odin',
         description: 'testing personal framework',
-        page: '',
-        github: 'https://github.com/isaackelly0/odin'
+        page: 'https://github.com/isaackelly0/odin',
+        github: 'https://github.com/isaackelly0/framework'
     }
 ]
 export default frontProjects;

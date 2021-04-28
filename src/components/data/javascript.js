@@ -40,7 +40,7 @@ let jsProjects = [
         pic: memory,
         alt: 'cards',
         description: 'memory game using hooks',
-        page: '',
+        page: 'http://isaackelly0.github.io/memory-card',
         github: 'https://github.com/isaackelly0/memory-card'
     },
     {
