@@ -8,10 +8,10 @@ const Page = props => {
     }
     return(
         <section className='row'>
-            <div className='col-3'>
+            <div className='col-md-3 col-sm-12'>
             <Sidebar list={links}/>
             </div>
-            <div className='col-9'>
+            <div className='col-md-9 col-sm-12'>
             {props.list.map(item=>{return<div key={uniqid()}><Card item={item}/></div>})}
             </div>
         </section>

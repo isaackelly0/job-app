@@ -1,7 +1,8 @@
 import uniqid from 'uniqid';
+import "./Sidebar.css"
 const Sidebar = props => {
     return(
-        <nav>
+        <nav className="scroll">
             <ul>
                 {props.list.map(item=>{
                     let id = "#" + item;
