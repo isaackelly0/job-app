@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+.navbar{
+  /* display: flex; */
+  /* position: fixed; */
+  /* position:sticky; */
+  width: 100%;
+  /* top: 0; */
+  background-color: goldenrod;
+}
+.navbar ul{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  list-style:none;
+  padding-top: 1%;
+  /* position: fixed; */
+  /* top: 5; */
+  /* margin-top: 2px;; */
+  /* z-index: 999px; */
+  /* padding-top: 5%; */
+  /* padding-bottom: 3%; */
+  /* background-color: white; */
+}
+.row{
+  /* margin-top: 4.25%; */
+}
+body{
+  background-color: grey;
+}

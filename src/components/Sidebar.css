@@ -1,4 +1,11 @@
 .scroll{
-    background-color: aqua;
-    position: fixed;
+    background-color: orange;
+    position: sticky;
+    top:0;
+    /* left: 5; */
+    padding: 1%;
+}
+.scroll ul{
+    list-style: none;
+    padding-left: 0%;
 }

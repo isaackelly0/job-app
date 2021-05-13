@@ -60,7 +60,7 @@ let frontProjects = [
         pic: odin,
         alt: 'odin',
         description: 'For my last trick, I tried out sass to build my own styling framework. I quite like sass a lot since it lets me nest things in parent elements, and I decided to dedicate this last site to the one that got me this far, The Odin Project. I decided to challenge myself a bit this time and mainly reserved my google searches for things like color, font, and what other features sass had. For everything else, I used everything I had learned up to this point to build this.',
-        page: 'https://github.com/isaackelly0/odin',
+        page: 'https://isaackelly0.github.io/framework',
         github: 'https://github.com/isaackelly0/framework'
     }
 ]

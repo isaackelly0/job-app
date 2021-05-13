@@ -12,7 +12,7 @@ import html from "./components/data/front-end";
 function App() {
   return (
     <Router className='container'>
-      <nav>
+      <nav className="navbar">
         <ul>
           <li>
             <Link to="/">Home</Link>
