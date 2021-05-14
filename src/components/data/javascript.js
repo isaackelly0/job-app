@@ -10,7 +10,7 @@ let jsProjects = [
         name: "Etch-a-sketch",
         pic: sketch,
         alt: "etch-a-sketch",
-        description: "This is my first use of javascript for DOM manipulation, and even though I would probably do it differently these days, I'm still pretty proud of it. Mouse-over events cause the background of the sketch to change color, and you can scale the sketch pad how you\'d like.",
+        description: "This is my first use of javascript for DOM manipulation, and even though I would probably do it differently these days, I'm still pretty proud of it. Mouse-over events cause the background of the sketch to change color, and you can scale the sketch pad how you'd like.",
         page: "https://isaackelly0.github.io/etch-a-sketch/",
         github: "https://github.com/isaackelly0/etch-a-sketch"
     },
@@ -50,7 +50,7 @@ let jsProjects = [
         name: 'Shopping Cart',
         pic: cart,
         alt: 'cart',
-        description: "This one is kind of straight forward, using React\'s router to navigate through different pages on a website. It totally didn\'t inspire this one in any way at all. No siree. Also this allowed me to test how objects work in state." ,
+        description: "This one is kind of straight forward, using React's router to navigate through different pages on a website. It totally didn't inspire this one in any way at all. No siree. Also this allowed me to test how objects work in state." ,
         page: 'http://isaackelly0.github.io/shopping-cart',
         github: 'https://github.com/isaackelly0/shopping-cart'
     },
