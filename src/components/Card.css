@@ -1,7 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Play&display=swap');
-img{
+.index{
+    padding: 1%;
+    background-color: lightgrey;
+    border-style: none;
+    border-radius: 0.5%;
+    margin-bottom: 1%;
+}
+.index img{
     max-width: 100%;
 }
-p{
+.index p{
     font-family: 'Play', sans-serif;
+}
+.links{
+    display: flex;
+    justify-content: space-around;
 }

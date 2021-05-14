@@ -63,7 +63,10 @@ html, body{
   box-sizing: border-box;
 }
 body{
-  background-color: grey;
+  /* background-color: grey; */
+  background: linear-gradient(to right top, grey 20%, 2%, aqua 22.5%, 0.5%, lime 25%, grey 15%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 /* html, body{
   margin:0;
