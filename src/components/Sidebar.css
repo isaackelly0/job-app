@@ -1,8 +1,7 @@
 .scroll{
-    background-color: orange;
+    background-color: lightgrey;
     position: sticky;
     top:0;
-    /* left: 5; */
     padding: 1%;
 }
 .scroll ul{
