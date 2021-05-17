@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/job-app/static/css/main.069fa98e.chunk.css",
+    "main.js": "/job-app/static/js/main.56df577e.chunk.js",
+    "main.js.map": "/job-app/static/js/main.56df577e.chunk.js.map",
+    "runtime-main.js": "/job-app/static/js/runtime-main.72c92fce.js",
+    "runtime-main.js.map": "/job-app/static/js/runtime-main.72c92fce.js.map",
+    "static/js/2.e18fa036.chunk.js": "/job-app/static/js/2.e18fa036.chunk.js",
+    "static/js/2.e18fa036.chunk.js.map": "/job-app/static/js/2.e18fa036.chunk.js.map",
+    "index.html": "/job-app/index.html",
+    "static/css/main.069fa98e.chunk.css.map": "/job-app/static/css/main.069fa98e.chunk.css.map",
+    "static/js/2.e18fa036.chunk.js.LICENSE.txt": "/job-app/static/js/2.e18fa036.chunk.js.LICENSE.txt",
+    "static/media/Apple.67b5b9f9.png": "/job-app/static/media/Apple.67b5b9f9.png",
+    "static/media/Videotube.603769d3.png": "/job-app/static/media/Videotube.603769d3.png",
+    "static/media/calculator.af0fd8fd.png": "/job-app/static/media/calculator.af0fd8fd.png",
+    "static/media/cart.3a749b03.png": "/job-app/static/media/cart.3a749b03.png",
+    "static/media/cv.842723cc.gif": "/job-app/static/media/cv.842723cc.gif",
+    "static/media/life-counter.4ba4e9ab.gif": "/job-app/static/media/life-counter.4ba4e9ab.gif",
+    "static/media/memory.fb236c9a.gif": "/job-app/static/media/memory.fb236c9a.gif",
+    "static/media/mint-page.361af7a3.png": "/job-app/static/media/mint-page.361af7a3.png",
+    "static/media/newsweek.7e6a8bc1.gif": "/job-app/static/media/newsweek.7e6a8bc1.gif",
+    "static/media/nextweb.1ed06dc9.gif": "/job-app/static/media/nextweb.1ed06dc9.gif",
+    "static/media/nyt.49d3e9c1.png": "/job-app/static/media/nyt.49d3e9c1.png",
+    "static/media/odin.bcd569ad.gif": "/job-app/static/media/odin.bcd569ad.gif",
+    "static/media/selfie.3ca1af30.jpg": "/job-app/static/media/selfie.3ca1af30.jpg",
+    "static/media/sketch1.4183fb4c.gif": "/job-app/static/media/sketch1.4183fb4c.gif",
+    "static/media/weather.f7422090.gif": "/job-app/static/media/weather.f7422090.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72c92fce.js",
+    "static/js/2.e18fa036.chunk.js",
+    "static/css/main.069fa98e.chunk.css",
+    "static/js/main.56df577e.chunk.js"
+  ]
+}
